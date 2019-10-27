@@ -1,0 +1,35 @@
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\appsettings.json
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.exe
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.deps.json
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.runtimeconfig.json
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.runtimeconfig.dev.json
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.dll
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.pdb
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.Views.dll
+D:\SDGKU\FSDI110\lab 2\bin\Debug\netcoreapp3.0\lab 2.Views.pdb
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.csprojAssemblyReference.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\staticwebassets\lab 2.StaticWebAssets.Manifest.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\staticwebassets\lab 2.StaticWebAssets.xml
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.MvcApplicationPartsAssemblyInfo.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.RazorAssemblyInfo.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.RazorAssemblyInfo.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.AssemblyInfoInputs.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.AssemblyInfo.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.TagHelpers.input.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.TagHelpers.output.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.RazorCoreGenerate.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.RazorTargetAssemblyInfo.cache
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.RazorTargetAssemblyInfo.cs
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.Views.pdb
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.dll
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.pdb
+D:\SDGKU\FSDI110\lab 2\obj\Debug\netcoreapp3.0\lab 2.csproj.CopyComplete
